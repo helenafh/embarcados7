@@ -8,27 +8,27 @@
         {
             "name": "PlatformIO",
             "includePath": [
-                "/home/helenafh/Documentos/PlatformIO/Projects/260505-100817-zephyr-blink/include",
-                "/home/helenafh/Documentos/PlatformIO/Projects/260505-100817-zephyr-blink/src",
-                "/home/helenafh/.platformio/packages/framework-zephyr/include",
-                "/home/helenafh/Documentos/PlatformIO/Projects/260505-100817-zephyr-blink/.pio/build/frdm_kl25z/zephyr/include/generated",
-                "/home/helenafh/.platformio/packages/framework-zephyr/soc/arm/nxp_kinetis/kl2x",
-                "/home/helenafh/.platformio/packages/framework-zephyr/_pio/modules/hal/cmsis/CMSIS/Core/Include",
-                "/home/helenafh/.platformio/packages/framework-zephyr/_pio/modules/hal/nxp/mcux/devices/MKL25Z4",
-                "/home/helenafh/.platformio/packages/framework-zephyr/_pio/modules/hal/nxp/mcux/drivers/kinetis",
+                "/home/helenafh/Documentos/Poli/9sem/embarcados/ativ6/embarcados/include",
+                "/home/helenafh/Documentos/Poli/9sem/embarcados/ativ6/embarcados/src",
+                "/home/helenafh/.platformio/packages/framework-zephyr@2.20701.220422/include",
+                "/home/helenafh/Documentos/Poli/9sem/embarcados/ativ6/embarcados/.pio/build/frdm_kl25z/zephyr/include/generated",
+                "/home/helenafh/.platformio/packages/framework-zephyr@2.20701.220422/soc/arm/nxp_kinetis/kl2x",
+                "/home/helenafh/.platformio/packages/framework-zephyr@2.20701.220422/_pio/modules/hal/cmsis/CMSIS/Core/Include",
+                "/home/helenafh/.platformio/packages/framework-zephyr@2.20701.220422/_pio/modules/hal/nxp/mcux/devices/MKL25Z4",
+                "/home/helenafh/.platformio/packages/framework-zephyr@2.20701.220422/_pio/modules/hal/nxp/mcux/drivers/kinetis",
                 ""
             ],
             "browse": {
                 "limitSymbolsToIncludedHeaders": true,
                 "path": [
-                    "/home/helenafh/Documentos/PlatformIO/Projects/260505-100817-zephyr-blink/include",
-                    "/home/helenafh/Documentos/PlatformIO/Projects/260505-100817-zephyr-blink/src",
-                    "/home/helenafh/.platformio/packages/framework-zephyr/include",
-                    "/home/helenafh/Documentos/PlatformIO/Projects/260505-100817-zephyr-blink/.pio/build/frdm_kl25z/zephyr/include/generated",
-                    "/home/helenafh/.platformio/packages/framework-zephyr/soc/arm/nxp_kinetis/kl2x",
-                    "/home/helenafh/.platformio/packages/framework-zephyr/_pio/modules/hal/cmsis/CMSIS/Core/Include",
-                    "/home/helenafh/.platformio/packages/framework-zephyr/_pio/modules/hal/nxp/mcux/devices/MKL25Z4",
-                    "/home/helenafh/.platformio/packages/framework-zephyr/_pio/modules/hal/nxp/mcux/drivers/kinetis",
+                    "/home/helenafh/Documentos/Poli/9sem/embarcados/ativ6/embarcados/include",
+                    "/home/helenafh/Documentos/Poli/9sem/embarcados/ativ6/embarcados/src",
+                    "/home/helenafh/.platformio/packages/framework-zephyr@2.20701.220422/include",
+                    "/home/helenafh/Documentos/Poli/9sem/embarcados/ativ6/embarcados/.pio/build/frdm_kl25z/zephyr/include/generated",
+                    "/home/helenafh/.platformio/packages/framework-zephyr@2.20701.220422/soc/arm/nxp_kinetis/kl2x",
+                    "/home/helenafh/.platformio/packages/framework-zephyr@2.20701.220422/_pio/modules/hal/cmsis/CMSIS/Core/Include",
+                    "/home/helenafh/.platformio/packages/framework-zephyr@2.20701.220422/_pio/modules/hal/nxp/mcux/devices/MKL25Z4",
+                    "/home/helenafh/.platformio/packages/framework-zephyr@2.20701.220422/_pio/modules/hal/nxp/mcux/drivers/kinetis",
                     ""
                 ]
             },
@@ -46,8 +46,8 @@
             ],
             "cStandard": "c99",
             "forcedInclude": [
-                "/home/helenafh/Documentos/PlatformIO/Projects/260505-100817-zephyr-blink/.pio/build/frdm_kl25z/zephyr/include/generated/autoconf.h",
-                "/home/helenafh/.platformio/packages/framework-zephyr/include/toolchain/zephyr_stdint.h",
+                "/home/helenafh/Documentos/Poli/9sem/embarcados/ativ6/embarcados/.pio/build/frdm_kl25z/zephyr/include/generated/autoconf.h",
+                "/home/helenafh/.platformio/packages/framework-zephyr@2.20701.220422/include/toolchain/zephyr_stdint.h",
                 ""
             ],
             "compilerPath": "/home/helenafh/.platformio/packages/toolchain-gccarmnoneeabi/bin/arm-none-eabi-gcc",
@@ -57,7 +57,7 @@
                 "-mabi=aapcs",
                 "-mfp16-format=ieee",
                 "-isystem",
-                "/home/helenafh/.platformio/packages/framework-zephyr/lib/libc/minimal/include",
+                "/home/helenafh/.platformio/packages/framework-zephyr@2.20701.220422/lib/libc/minimal/include",
                 "-isystem",
                 "/home/helenafh/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/8.2.1/include",
                 "-isystem",
